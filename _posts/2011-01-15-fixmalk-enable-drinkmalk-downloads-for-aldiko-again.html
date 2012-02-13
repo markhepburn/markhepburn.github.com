@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "FixMalk: Enable drinkmalk downloads for Aldiko again"
+published: true
+---
+<p><em>Update: This is now out of date; the issue I identified here has been resolved (really, I don't know why I didn't just contact them directly, other than the fun of the hack and then forgetting about it. &nbsp;Next time).</em></p>
+<p><em><a href="http://drinkmalk.com/stanza/node/3214">http://drinkmalk.com/stanza/node/3214</a></em></p>
+<p><em><a href="http://www.drinkmalk.com/stanza/node/3234">http://www.drinkmalk.com/stanza/node/3234</a></em></p>
+<p>I have an android phone, and the best eBook reader seems to be <a href="http://www.aldiko.com">Aldiko</a>. &nbsp;I didn't really think I'd be able to read a whole book on a screen like that, but with a bit of travelling-inspired persistence I got through one, then quickly through another couple, so I ended up buying Aldiko (you can also just use it for free).</p>
+<p />
+<div>You have a few options for book sources; several online catalogues are pre-configured, including creative-commons licensed works and Project Gutenberg. &nbsp;<a href="http://www.drinkmalk.com">Drinkmalk</a> is another one that many people end up adding, because it has a decent range of recent works... legality is probably suspect for much of the content, although they urge you to only use it for books you already own in hard-copy.</div>
+<p />
+<div>As of the recent 2.0 release of Aldiko though, while you could still browse the catalogue, downloads from drinkmalk stopped working. &nbsp;Even though it's not actually something I use much I none-the-less whinged online, and got a response from <a href="http://twitter.com/Hadrien">Hadrien Gardeur</a> who informed me it was the drinkmalk team's fault for not complying with the catalogue specification, and pointed me at&nbsp;<a href="http://opds-spec.org/">http://opds-spec.org/</a>.</div>
+<p />
+<div>As far as I can tell, the problem is simply that the feed from drinkmalk is lacking the correct (or any) rel attribute on content links. &nbsp;So, I wrote a simple proxy using <a href="http://webpy.org">web.py</a> (remember when that was a single file?? &nbsp;It's still small and useful though) that passes through all requests and responses, but corrects any mal-formed entries along the way. &nbsp;So, now you can run it on your laptop, configure your Aldiko catalogue to point to your laptop via the wireless network, and browse drinkmalk content as before. &nbsp;I was going to set up a public instance as well, but then I remembered that they limit downloads-per-day by IP so that wouldn't be that useful. &nbsp;Sorry.</div>
+<p />
+<div>You can find the code at&nbsp;<a href="https://github.com/markhepburn/FixMalk">https://github.com/markhepburn/FixMalk</a>.</div>
