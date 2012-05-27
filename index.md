@@ -4,20 +4,12 @@ title: Everything Tastes Better With Chilli
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Welcome to the blog of [Mark Hepburn](http://www.markhepburn.com).
+I'm gradually moving this site over from posterous, with the aid of
+[Jekyll Bootstrap](http://jekyllbootstrap.com) and
+[github-pages](http://pages.github.com/).
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Here's the content so far &mdash; more soon I promise!
 
 <ul class="posts">
   {% for post in site.posts %}
