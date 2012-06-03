@@ -547,3 +547,10 @@ img.maruku-png { }
 	color:#FFF;
 }
 
+/* Gallery ============================================================ */
+
+.gallery li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 5px;
+}
