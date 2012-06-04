@@ -70,32 +70,9 @@
 
 <!-- Javascript at the bottom for quicker loading: -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/2.0.6/jquery.fancybox.pack.js"></script> -->
 <script src="http://cachedcommons.org/javascripts/jquery/jquery.picasa-min.js" type="text/javascript"></script>
 <script src="{{ ASSET_PATH }}/slimbox2/slimbox2.js"></script>
-<script>
-  $(function() {
-    var picasaUserId = '110262280296887306226';
-    $('.gallery').each(function(_i, el) {
-      var $el = $(el),
-        albumId = $el.attr('data-album'); // Not .data('album') unfortunately, or coercion can truncate it
-        $el.picasaGallery(picasaUserId, albumId, function(images) {
-          $ul = $('<ul class="picasa-album"></ul>');
-          $.each(images, function(i, img) {
-            var $li = $('<li class="picasa-image"></li>'),
-                $a = $('<a class="picasa-image-large"></a>').attr('href', img.url),
-                $img = $('<img class="picasa-image-thumb" />').attr('src', img.thumbs[1].url);
-            $a.append($img); $li.append($a); $ul.append($li);
-          });
-          $el.append($ul).find('a').slimbox({
-            loop: true,
-            resizeDuration: 1,
-            imageFadeDuration: 1
-          });
-        });
-    });
-  });
-</script>
+<script src="{{ ASSET_PATH }}/js/slimbox-integration.js"> </script>
 
   {% include JB/analytics %}
 </body>
