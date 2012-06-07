@@ -14,7 +14,7 @@ $(function() {
         }
         $a.append($img); $li.append($a); $ul.append($li);
       });
-      $el.append($ul).find('a').slimbox({
+      $el.append($ul).find('a.picasa-image-large').slimbox({
         loop: true,
         resizeDuration: 1,
         imageFadeDuration: 1
