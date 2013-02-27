@@ -554,3 +554,8 @@ img.maruku-png { }
     display: inline-block;
     padding-right: 5px;
 }
+
+/* the <pre> font adjustments breaks embedded gist formatting; override that: */
+.gist-file pre {
+    font-size: 100%;
+}
