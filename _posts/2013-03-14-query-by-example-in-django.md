@@ -2,7 +2,7 @@
 layout: post
 title: "Query by example in Django"
 category: 
-tags: [Django]
+tags: [Hacking,Django]
 ---
 {% include JB/setup %}
 
