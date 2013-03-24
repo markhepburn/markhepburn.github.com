@@ -2,6 +2,7 @@
 layout: post
 title: Memoisation in Emacs Lisp
 published: true
+tags: [Emacs]
 ---
 <p>Memoisation in lisp has a nice implementation; see for example section 9.1 in Norvig's Paradigms of Artificial Intelligence Programming. The idea is of course the same: maintain some data structure such as a hash-table for caching along-side your function, then for each invocation check if an entry already exists in the cache and if so return it, else calculate the result as normal then cache it using the argument(s) as a key before returning. This is particularly useful for functions with a recursive definition, and indeed the poster child is again the fibonacci function, which has a natural definition but horrid run-time:</p>
 <p><script src="https://gist.github.com/418699.js?file=fib.el"></script><p /> What makes the lisp implementation particularly attractive is the ability to manipulate the symbol so that you don't need to write your function in any special way, and the memoisation can be added on transparently. For some reason however I haven't found a general implementation of this for emacs lisp (read: googling "elisp memoisation" didn't return much, even after changing it to "memoization" -- surprisingly it didn't prompt me for that spelling change either). Inspired by <a href="http://www.mail-archive.com/emacs-devel@gnu.org/msg05641.html">this comment</a> by Randall Schwartz I decided to try using advice instead of a straight-up port of the symbol-function manipulation that Norvig uses.<p /> The basic idea is we want add some "around" advice, like so:</p>
