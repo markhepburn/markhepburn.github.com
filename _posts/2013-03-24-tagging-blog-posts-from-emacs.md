@@ -2,7 +2,7 @@
 layout: post
 title: "Tagging blog posts from Emacs"
 category: 
-tags: [Hacking,Emacs]
+tags: [Hacking, Emacs]
 ---
 {% include JB/setup %}
 
