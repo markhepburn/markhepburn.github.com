@@ -8,6 +8,7 @@ CONFIG = {
   'themes' => File.join(SOURCE, "_includes", "themes"),
   'layouts' => File.join(SOURCE, "_layouts"),
   'posts' => File.join(SOURCE, "_posts"),
+  'drafts' => File.join(SOURCE, "_drafts"),
   'post_ext' => "md",
   'theme_package_version' => "0.1.0"
 }
@@ -61,6 +62,43 @@ task :post do
     post.puts "{% include JB/setup %}"
   end
 end # task :post
+
+# Usage: rake draft title="A Title"
+desc "Begin a new draft in #{CONFIG['drafts']}"
+task :draft do
+  abort("rake aborted: '#{CONFIG['drafts']}' directory not found.") unless FileTest.directory?(CONFIG['drafts'])
+  title = ENV["title"] || "new-post"
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  filename = File.join(CONFIG['drafts'], "#{slug}.#{CONFIG['post_ext']}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+
+  puts "Creating new draft post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "category: "
+    post.puts "tags: []"
+    post.puts "---"
+    post.puts "{% include JB/setup %}"
+  end
+end
+
+# Usage: rake publish draft=file-name.md
+desc "Publish a draft post (move from #{CONFIG['drafts']} to #{CONFIG['posts']})"
+task :publish do
+  abort("rake aborted: must specify 'draft' to publish.") unless ENV["draft"]
+  abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
+  abort("rake aborted: can't find draft #{ENV['draft']}") unless File.exist?(ENV['draft'])
+  filename = File.basename(ENV['draft'])
+  newfilename = File.join(CONFIG['posts'], "#{Time.now.strftime('%Y-%m-%d')}-#{filename}")
+  abort("rake aborted: publication file #{newfilename} already exists") if File.exist?(newfilename)
+
+  puts "Publishing #{ENV['draft']} to #{newfilename}"
+  File.rename(ENV['draft'], newfilename)
+end
 
 # Usage: rake page name="about.html"
 # You can also specify a sub-directory path.
