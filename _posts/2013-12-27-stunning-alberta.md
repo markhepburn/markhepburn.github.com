@@ -78,14 +78,14 @@ ungainly looking proportions, and majestic grace in its movement.
 The next day, and time for my first entry into Banff itself.  Lake
 Louise is a massive tourist draw, which this time *does* rather
 detract from the experience; both the huge crowds clustered around the
-shaw, and the enormous ugly hotel right behind you.  It is definitely
-pretty, just a little hard to appreciate in that atomsphere.
+shore, and the enormous ugly hotel right behind you.  It is definitely
+pretty, just a little hard to appreciate in that atmosphere.
 
 Fortunately as soon as you start walking even a little way around the
 shore you leave the vast majority behind, and while I never felt
 isolated as I headed up the valley it was much more pleasant.
 
-First stop was the plan-of-6-glaciers tea-house where I had a snack
+First stop was the plain-of-6-glaciers tea-house where I had a snack
 and watched the extremely well-fed and cheeky ground-squirrels climb
 up onto the tables.  I pushed up closer to the glacier (and having
 climbed off-track up a scree-slope, unfortunately missed witnessing an
