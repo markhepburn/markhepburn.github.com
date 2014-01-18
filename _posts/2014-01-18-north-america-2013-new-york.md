@@ -16,7 +16,7 @@ So, from Montreal it was time to head south across the border.  It
 wasn't an auspicious beginning, as the train was delayed and we all
 queued up the middle of the station while all around us everything
 else (the non-Amtrak trains) ran on time.  Meanwhile, a gentleman
-behind me muttered how typical that was, how poor trains were these
+behind me muttered how typical that was, how poor these trains were
 unlike in the golden days, and so on.  No-one had much idea what was
 going on either; we all had our luggage, but periodically an Amtrak
 employee would walk up and down the line, mumbling something about
@@ -26,7 +26,7 @@ station, he wouldn't trust them as far as he could throw them and he
 was holding onto it thank you very much.
 
 Eventually I found a seat.  "May I sit with you?" said a young lady
-behind me.  Of course I replied; "great!  Could you put my bag up in
+behind me.  Of course I replied; "Great!  Could you put my bag up in
 the rack then please?".  I think I was used!  Conversation after that
 was quite pleasant, coupled with nice views of autumnal colour through
 the countryside, and luckily since the journey was around 10 hours!
@@ -131,7 +131,7 @@ with (some) modern art.  The lower floors also contained a lot of
 applied and industrial design, milestone computer artefacts (including
 an annotated print-out of the first Pacman code!), sound art, and so
 on.  The upper two floors were more of a strain: this is where the big
-names reside, the Picassos, the Van Gough, the Warhols... and
+names reside, the Picassos, the Van Gogh, the Warhols... and
 apparently nearly all the visitors, screaming and running from piece
 to piece to take a picture with their iphone
 [or ipad](http://thebestpageintheuniverse.net/c.cgi?u=padhole) and
