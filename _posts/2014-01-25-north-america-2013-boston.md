@@ -59,7 +59,7 @@ financial district we parted ways for a bit and I hugged the shade on
 a wander through a leafy upper-class neighbour hill, around the river,
 and back along the main shopping and entertainment district.
 
-<div data-albu="5922565498547590497" class="gallery"><a href="https://plus.google.com/photos/110262280296887306226/albums/5922565498547590497">View Photos on Google+</a></div>
+<div data-album="5922565498547590497" class="gallery"><a href="https://plus.google.com/photos/110262280296887306226/albums/5922565498547590497">View Photos on Google+</a></div>
 
 # Nerding out in Cambridge
 
@@ -93,7 +93,7 @@ smart enough and prepared to work hard enough there could be a place
 for you.  Who knows if that's accurate in either case, but as
 inspiration it certainly hit home.
 
-<div data-albu="5922941093320860369" class="gallery"><a href="https://plus.google.com/photos/110262280296887306226/albums/5922941093320860369">View Photos on Google+</a></div>
+<div data-album="5922941093320860369" class="gallery"><a href="https://plus.google.com/photos/110262280296887306226/albums/5922941093320860369">View Photos on Google+</a></div>
 
 [^1]: As well as inspired, I also got depressed and that evening
 booked a week in SF to decompress a little and write some code again.
