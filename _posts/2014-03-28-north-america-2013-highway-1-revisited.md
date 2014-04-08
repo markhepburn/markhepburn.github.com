@@ -60,9 +60,9 @@ summit dropping right down to the water.
 
 <div data-album="5931856771484558849" class="gallery"><a href="https://plus.google.com/photos/110262280296887306226/albums/5931856771484558849">View Photos on Google+</a></div>
 
-As an aside[^1]: I'd been a fan of the author
+As an aside[^1]: I've been a fan of the author
 [Jack Kerouac](http://www.amazon.com/gp/product/0140283293/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140283293&linkCode=as2&tag=evertastbettw-20),
-and it seemed to appropriate to
+and it seemed appropriate to
 [read more](http://www.amazon.com/gp/product/0140042520/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140042520&linkCode=as2&tag=evertastbettw-20)
 while road-tripping.  Fittingly, there's even one *called*
 [Big Sur](http://www.amazon.com/gp/product/0143119230/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143119230&linkCode=as2&tag=evertastbettw-20),
@@ -90,12 +90,12 @@ weather I'd had the previous 2 days as I did so!
 
 Once the views have eased off a little, your next stop is likely to be
 [Hearst Castle](http://hearstcastle.org/).  This place is hard to
-describe: from the reception building your are escorted up to the
-castle itself by coach, to the castle.  It's a bizarre mix of old and
-new; built within the last century, but with most of the interior
-coming from the antiques collection of (the late) William Hearst.  He
-even had a private zoo at the time; I saw a herd of zebras, still
-roaming around, as I was leaving!
+describe: from the reception building you are escorted up to the
+castle itself by coach.  It's a bizarre mix of old and new; built
+within the last century, but with most of the interior coming from the
+antiques collection of (the late) William Hearst.  He even had a
+private zoo at the time; I saw a herd of zebras, still roaming around,
+as I was leaving!
 
 <div data-album="5933012240748365697" class="gallery"><a href="https://plus.google.com/photos/110262280296887306226/albums/5933012240748365697">View Photos on Google+</a></div>
 
