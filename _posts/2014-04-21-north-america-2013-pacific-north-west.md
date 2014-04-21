@@ -56,7 +56,7 @@ more distant stops.  Eventually I got off, and on a whim started
 walking down a path off the road-side.  It not only went exactly where
 I was intending, but soon became a very pleasant
 [educational trail](http://www.hoytarboretum.org/)---winning.  The
-gardens themselves were picturesque enough and provide a fairly nice
+gardens themselves were picturesque enough and provided a fairly nice
 view back out over the city, with Mount Hood just visible behind.
 
 Portland is justifiably famous for its
@@ -91,14 +91,14 @@ wound up drinking.
 The next morning my good mood from the night before had deserted me
 and so, it was feeling like, had my persistent good luck on this trip.
 Slightly underwhelmed by the hostel breakfast I went out, straight
-into a thick damp fog making it apparently I didn't have enough warm
-clothes on, and immediately jarred my knee stepping down off the curb,
-with my opposite hip already complaining about lugging my backpack
-around yesterday.  Feeling slightly sorry for myself I figured any
-coffee would help, and ducked into the first half-way decent looking
-cafe I came across.  The vile espresso I forced down had me cursing
-that decision too, and I was all but ready to either go back to bed or
-pass through Seattle entirely.
+into a thick damp fog making it apparent I didn't have enough warm
+clothes on, and I immediately jarred my knee stepping down off the
+curb, with my opposite hip already complaining about lugging my
+backpack around yesterday.  Feeling slightly sorry for myself I
+figured any coffee would help, and ducked into the first half-way
+decent looking cafe I came across.  The vile espresso I forced down
+had me cursing that decision too, and I was all but ready to either go
+back to bed or pass through Seattle entirely.
 
 Like a true soldier though I pushed on, and after exploring the
 [Pike Place Markets](http://www.pikeplacemarket.org/) for a while I
