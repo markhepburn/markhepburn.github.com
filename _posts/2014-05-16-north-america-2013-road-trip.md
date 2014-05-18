@@ -57,7 +57,7 @@ Over dinner that night I learned that not only does (Mormon) Utah
 actually have at least one brewery, but they have a sense of humour
 about it: I washed my food down with a Polygamy Porter.
 
-The following morning we again drove that rode through the park for a
+The following morning we again drove that road through the park for a
 fourth time, saying good morning to our friends at the gate, and
 parked at the visitor centre to investigate hikes before catching a
 shuttle in.  We had planned to explore Hidden Canyon, but when that
@@ -117,11 +117,11 @@ serious, come visit!
 This post effectively marks the end of this blog as a place for my
 travel pictures.[^1]
 
-As I mentioned at
-[the beginning]({% post_url 2013-12-22-north-america-2013-back-to-vancouver %}),
-I quit my job before this trip, and together with a friend I'm now
-well into [something new](http://www.condense.com.au).  That means
-much less travel-posts for now, but on the other hand I do have a long
+As I mentioned at [the beginning]({% post_url
+2013-12-22-north-america-2013-back-to-vancouver %}), I quit my job
+before this trip, and together with a friend I'm now well into
+[something new](http://www.condense.com.au).  That means a lot fewer
+travel-related posts for now, but on the other hand I do have a long
 list of posts in technical and business areas I plan to write.  Stay
 tuned!  (Or update your subscriptions accordingly)
 
