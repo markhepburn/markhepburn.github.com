@@ -117,13 +117,13 @@ serious, come visit!
 This post effectively marks the end of this blog as a place for my
 travel pictures.[^1]
 
-As I mentioned at [the beginning]({% post_url
-2013-12-22-north-america-2013-back-to-vancouver %}), I quit my job
-before this trip, and together with a friend I'm now well into
-[something new](http://www.condense.com.au).  That means a lot fewer
-travel-related posts for now, but on the other hand I do have a long
-list of posts in technical and business areas I plan to write.  Stay
-tuned!  (Or update your subscriptions accordingly)
+As I mentioned at
+[the beginning]({% post_url 2013-12-22-north-america-2013-back-to-vancouver %}),
+I quit my job before this trip, and together with a friend I'm now
+well into [something new](http://www.condense.com.au).  That means a
+lot fewer travel-related posts for now, but on the other hand I do
+have a long list of posts in technical and business areas I plan to
+write.  Stay tuned!  (Or update your subscriptions accordingly)
 
 [^1]: It was originally a means for people to keep track of where I
     was, but given the delays in recent posts it didn't do that very well.
