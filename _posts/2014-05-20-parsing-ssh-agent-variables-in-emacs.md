@@ -30,7 +30,7 @@ After realising this it was just a few minutes of rolling up the
 sleeves and writing some elisp to parse this and set the variables
 locally:
 
-```elisp
+```scheme
 ;;; Set variables for ssh interaction, assuming they exist in a file ~/.ssh/agent.env.
 ;;; See https://help.github.com/articles/working-with-ssh-key-passphrases
 (defun mh/parse-sshagent-env ()
