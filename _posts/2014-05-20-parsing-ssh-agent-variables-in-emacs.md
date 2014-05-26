@@ -2,7 +2,7 @@
 layout: post
 title: "Parsing ssh agent variables in Emacs"
 category: 
-tags: [Hacking, Emacs]
+tags: [Hacking, Emacs, MS Tech]
 ---
 {% include JB/setup %}
 
