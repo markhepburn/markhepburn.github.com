@@ -6,6 +6,9 @@ tags: [Hacking]
 ---
 {% include JB/setup %}
 
+*Update: [Dominic](#comment-1736953527) has a few tips to make this an
+ even easier process.*
+
 The other day I came across the old
 [subversion](http://subversion.apache.org/) repository for my thesis[^2],
 and thought it would be a good idea to convert it to
