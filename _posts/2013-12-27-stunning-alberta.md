@@ -145,4 +145,4 @@ rest at all I don't think anything quite topped Alberta.
 
 
 [^1]: Obtaining this is a simple financial transaction.  Absolutely no
-proof of competence required.
+    proof of competence required.
